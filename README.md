@@ -1,6 +1,8 @@
 # npeivreg
 Executes estimation of nonparametric errors-in-variables (EIV) regression and construction of its uniform confidence band Use npeivreg With STATA 19
 
+https://www.youtube.com/watch?v=wgDfRSTBBuQ
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
